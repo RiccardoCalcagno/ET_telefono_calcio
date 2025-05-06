@@ -143,8 +143,8 @@ MonoBehaviour:
     YAxis:
       ConstrainAxis: 1
       AxisRange:
-        Min: 0
-        Max: 0
+        Min: 0.2094889
+        Max: 0.2094889
     ZAxis:
       ConstrainAxis: 0
       AxisRange:
@@ -172,17 +172,17 @@ MonoBehaviour:
       ConstrainAxis: 1
       AxisRange:
         Min: 1
-        Max: 2
+        Max: 2.5
     YAxis:
       ConstrainAxis: 1
       AxisRange:
         Min: 1
-        Max: 2
+        Max: 2.5
     ZAxis:
       ConstrainAxis: 1
       AxisRange:
         Min: 1
-        Max: 2
+        Max: 2.5
   _resetScaleResponsivenessOnConstraintOvershoot: 0
 --- !u!1001 &721658772847962222
 PrefabInstance:

@@ -51,6 +51,6 @@ public class GoalDetector : MonoBehaviour
 
         // Calcolo della direzione locale back (-forward) in world space
         Vector3 localBack = -transform.forward;
-        ballTransform.position += localBack * 10f;
+        ballTransform.position += localBack * 1f;
     }
 }
