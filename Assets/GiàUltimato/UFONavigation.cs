@@ -20,7 +20,7 @@ public class UFONavigation : MonoBehaviour
     [Tooltip("Soglia della dimensine maggiore della mano per considerarla aperta")]
     public float closedHandCoeff = 0f;
 
-    [Header("Max distance of the UFO from the eye")]
+    [Tooltip("Max distance of the UFO from the eye")]
     public float maxDistanceUFO = 4f; 
 
 
