@@ -27,7 +27,7 @@ By completing this project, teh students will be introduced to:
 
 ## ▶️ Running the Project
 
-1. Clone the repository, or import into your project (of type Build-in render pipeline) the uniyPackage: 
+1. Clone the repository, or import into your project (of type Build-in render pipeline) the uniyPackage: `ET_telefono_calcio_project.unitypackage`
 2. Open the project in Unity (recommended version: Unity 2022.3 LTS or higher).
 3. Ensure the **Meta XR All-in-One SDK** and **Oculus XR Plugin** are installed via Package Manager.
 4. Follow the step-by-step guide in the included `Presentazione ET telefono calcio.pdf`.
