@@ -28,7 +28,6 @@ public class UFONavigation : MonoBehaviour
 
     private float angularSpeed = Mathf.PI * 0.4f; // 1 giro ogni 5 sec
     private float currentOpennessCoeff;
-    private Vector3 handCenter;
     private Rigidbody myRigidBody;
     private float responsivnessToPosError = 15f; 
     private float maxForce = 5f;
@@ -49,9 +48,6 @@ public class UFONavigation : MonoBehaviour
 
         Debug.Log(forwardDistance);
 
-        // Calcolo centro approssimato
-        handCenter = palmo.position;
-
         currentOpennessCoeff = (Mathf.Clamp(forwardDistance, closedHandCoeff, openHandCoeff) - closedHandCoeff ) / openHandCoeff;
     }
 
@@ -61,7 +57,7 @@ public class UFONavigation : MonoBehaviour
     {
         Vector3 dir = (puntaDito.position - eyeCenterAnchor.position).normalized;
         Vector3 targetLocal = dir * Mathf.Lerp(0f, maxDistanceUFO, currentOpennessCoeff);
-        targetLocal += handCenter;
+        targetLocal += palmo.position;
 
         Vector3 positionError = targetLocal - transform.position;
         Vector3 controlForce = Vector3.ClampMagnitude(
