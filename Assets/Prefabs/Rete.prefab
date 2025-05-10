@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 687912195130604569}
   - component: {fileID: 1893100595540653037}
   - component: {fileID: 9203618995004027564}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Rete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
