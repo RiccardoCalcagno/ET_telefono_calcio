@@ -5,14 +5,15 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody))]
 public class UFONavigation : MonoBehaviour
 {
-    [Tooltip("Transform del palmo (root della mano)")]
-    public Transform palmo;
+    [Tooltip("Transform della posizione del centro degli occhi")]
+    public Transform eyeCenterAnchor;
 
     [Tooltip("Transform della punta di una delle dita (es. dito medio)")]
     public Transform puntaDito;
 
-    [Tooltip("Transform della posizione del centro degli occhi")]
-    public Transform eyeCenterAnchor;
+    [Tooltip("Transform del palmo (root della mano)")]
+    public Transform palmo;
+
 
     [Tooltip("Soglia della dimensine maggiore della mano per considerarla aperta")]
     public float openHandCoeff = 0.13f;
