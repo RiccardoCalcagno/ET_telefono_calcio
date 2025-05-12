@@ -26,10 +26,8 @@ By completing this project, the students will be introduced to:
 ---
 
 <p align="center">
-  <img src="Resources/projectShowcase.gif" alt="E.T. Telefono Calcio showcase" width="800">
+  <img src="Resources/projectShowcase.gif" alt="E.T. Telefono Calcio showcase" width="700">
 </p>
-
-![E.T. Telefono Calcio showcase](Resources/projectShowcase.gif)
 
 ---
 
