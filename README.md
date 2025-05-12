@@ -38,7 +38,14 @@ By completing this project, teh students will be introduced to:
 5. If you want to skip all the passages open the scene `Assets/Finalized/ReadyScene.unity`.
 6. Build and deploy to Meta Quest 3 or Meta Quest pro.
 
-If you want to obtain directly the buld (.apk file) download it from: `https://fbk-my.sharepoint.com/:u:/g/personal/rcalcagno_fbk_eu/ETNyjwEAeFFFjr-I3QxqfRMBcd5nlLt3GSKE8xR_nB7pbw?e=ubB33I` using the password: `2025UnityXRTutorialRC`
+
+### Download the APK
+
+To download the build (`.apk` file) directly, use the following link:
+
+[Download APK](https://fbk-my.sharepoint.com/:u:/g/personal/rcalcagno_fbk_eu/ETNyjwEAeFFFjr-I3QxqfRMBcd5nlLt3GSKE8xR_nB7pbw?e=ubB33I)
+
+**Password:** `2025UnityXRTutorialRC`
 
 ---
 
