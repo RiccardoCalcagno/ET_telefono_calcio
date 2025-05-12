@@ -25,7 +25,7 @@ By completing this project, teh students will be introduced to:
 
 ---
 
-![E.T. Telefono Calcio showcase](VideoPresentazione.mp4)
+![E.T. Telefono Calcio showcase](Resources/projectShowcase.gif)
 
 ---
 
