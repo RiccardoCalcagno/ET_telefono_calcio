@@ -10,7 +10,7 @@ This repository includes a **comprehensive step-by-step tutorial** that guides s
 
 ## 🧠 Learning Objectives
 
-By completing this project, teh students will be introduced to:
+By completing this project, the students will be introduced to:
 
 - The basign compontes of the Unity Editor UI and its core functionality.
 - Designing and configuring complex prefabs (goal, ball, spaceship)
@@ -31,14 +31,21 @@ By completing this project, teh students will be introduced to:
 
 ## ▶️ Running the Project
 
-1. Clone the repository, or import into your project (of type Build-in render pipeline) the uniyPackage: `ET_telefono_calcio_project.unitypackage`
-2. Open the project in Unity (recommended version: Unity 2022.3 LTS or higher).
-3. Ensure the **Meta XR All-in-One SDK** and **Oculus XR Plugin** are installed via Package Manager.
-4. Follow the step-by-step guide in the included `Presentazione ET telefono calcio.pdf`.
-5. If you want to skip all the passages open the scene `Assets/Finalized/ReadyScene.unity`.
+1. Clone the repository, or import into your project (of type Build-in render pipeline) the uniyPackage: [`ET_telefono_calcio_project.unitypackage`](./ET_telefono_calcio_project.unitypackage);
+2. Open the project in Unity (recommended version: Unity 2022.3 LTS or higher);
+3. Ensure the **Meta XR All-in-One SDK** and **Oculus XR Plugin** are installed via Package Manager;
+4. Follow the step-by-step guide in the included [`Presentation ET telefono calcio.pdf`](./Presentation%20ET%20telefono%20calcio.pdf);
+5. If you want to skip all the passages open the scene `Assets/Finalized/ReadyScene.unity`;
 6. Build and deploy to Meta Quest 3 or Meta Quest pro.
 
-If you want to obtain directly the buld (.apk file) download it from: `https://fbk-my.sharepoint.com/:u:/g/personal/rcalcagno_fbk_eu/ETNyjwEAeFFFjr-I3QxqfRMBcd5nlLt3GSKE8xR_nB7pbw?e=ubB33I` using the password: `2025UnityXRTutorialRC`
+
+### Download the APK
+
+To download the build (`.apk` file) directly, use the following link:
+
+[Download APK](https://fbk-my.sharepoint.com/:u:/g/personal/rcalcagno_fbk_eu/ETNyjwEAeFFFjr-I3QxqfRMBcd5nlLt3GSKE8xR_nB7pbw?e=ubB33I)
+
+**Password:** `2025UnityXRTutorialRC`
 
 ---
 
