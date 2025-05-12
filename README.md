@@ -31,11 +31,11 @@ By completing this project, the students will be introduced to:
 
 ## ▶️ Running the Project
 
-1. Clone the repository, or import into your project (of type Build-in render pipeline) the uniyPackage: `ET_telefono_calcio_project.unitypackage`
-2. Open the project in Unity (recommended version: Unity 2022.3 LTS or higher).
-3. Ensure the **Meta XR All-in-One SDK** and **Oculus XR Plugin** are installed via Package Manager.
-4. Follow the step-by-step guide in the included `Presentazione ET telefono calcio.pdf`.
-5. If you want to skip all the passages open the scene `Assets/Finalized/ReadyScene.unity`.
+1. Clone the repository, or import into your project (of type Build-in render pipeline) the uniyPackage: [`ET_telefono_calcio_project.unitypackage`](./ET_telefono_calcio_project.unitypackage);
+2. Open the project in Unity (recommended version: Unity 2022.3 LTS or higher);
+3. Ensure the **Meta XR All-in-One SDK** and **Oculus XR Plugin** are installed via Package Manager;
+4. Follow the step-by-step guide in the included [`Presentation ET telefono calcio.pdf`](./Presentation%20ET%20telefono%20calcio.pdf);
+5. If you want to skip all the passages open the scene `Assets/Finalized/ReadyScene.unity`;
 6. Build and deploy to Meta Quest 3 or Meta Quest pro.
 
 
