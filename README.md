@@ -10,7 +10,7 @@ This repository includes a **comprehensive step-by-step tutorial** that guides s
 
 ## 🧠 Learning Objectives
 
-By completing this project, teh students will be introduced to:
+By completing this project, the students will be introduced to:
 
 - The basign compontes of the Unity Editor UI and its core functionality.
 - Designing and configuring complex prefabs (goal, ball, spaceship)
