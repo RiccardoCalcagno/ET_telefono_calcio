@@ -31,7 +31,7 @@ By completing this project, the students will be introduced to:
 
 ---
 
-## ▶️ Running the Project
+## ▶️ Executing The Tutorial
 
 1. Clone the repository, or import into your project (of type Build-in render pipeline) the uniyPackage: [`ET_telefono_calcio_project.unitypackage`](./ET_telefono_calcio_project.unitypackage);
 2. Open the project in Unity (recommended version: Unity 2022.3 LTS or higher);
